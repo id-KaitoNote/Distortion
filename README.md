@@ -1,4 +1,4 @@
 # Distortion
 
 # DEMO
-https://id-kaitonote.github.io/Distortion/
+https://id-kaitonote.github.io/Distortion/dest
